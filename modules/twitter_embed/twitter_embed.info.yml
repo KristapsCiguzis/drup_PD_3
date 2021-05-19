@@ -1,0 +1,14 @@
+name: 'Twitter Embed'
+type: module
+description: 'Simple embed of Twitter widgets, without OAuth.'
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: 'Twitter'
+dependencies:
+  - drupal:field
+  - drupal:block
+
+# Information added by Drupal.org packaging script on 2020-04-22
+version: '8.x-1.0-alpha2'
+project: 'twitter_embed'
+datestamp: 1587590733
